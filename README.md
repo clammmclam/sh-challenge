@@ -1,5 +1,11 @@
 ## Solace Candidate Assignment
 
+- includes bug fixes, styling improvements, and performance optimizations
+- handles filtering on the backend
+- adds responsive table layout with sticky header
+- uses SWR for data fetching and caching
+- improves readability and user experience
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
